@@ -1,0 +1,25 @@
+Berikut ini adalah username dan password untuk masuk aplikasi PSB online:
+
+peserta
+------------------------------
+http://localhost/cipsb/
+Ambil di tabel peserta, atau daftar sendiri.
+
+administrator
+------------------------------
+http://localhost/cipsb/admin
+user: admin
+pass: admin
+
+operator
+------------------------------
+http://localhost/cipsb/admin
+user: awan
+pass: awan
+
+
+Untuk fungsi-fungsi yang melibatkan email, saya menggunakan Argosoft.
+Jadi, pada argosoft buat akun:
+
+- panitiapsb@localhost	untuk akun panitia psb
+- awan@localhost	untuk contoh akun peserta
